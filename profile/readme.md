@@ -1,4 +1,4 @@
-![A stylized "Neurocracy" against a dark background with several diverging strands splitting off of a central, horizontal strand.](../images/neurocracy_header.jpg)
+![A stylized "Neurocracy" against a dark background with several diverging strands splitting off of a central, horizontal strand.](images/neurocracy_header.jpg)
 
 ⚠️⚠️⚠️ ***Here be potential spoilers. Proceed at your own risk.*** ⚠️⚠️⚠️
 
